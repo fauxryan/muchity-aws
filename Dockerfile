@@ -1,1 +1,1 @@
-FROM public.ecr.aws/amazonlinux/amazonlinux:latest
+FROM public.ecr.aws/amazonlinux/amazonlinux:latest@sha256:916dbbb288948b54c94b5b9f0769085aa601d4468d099e90d8a7da5cfa551b50
